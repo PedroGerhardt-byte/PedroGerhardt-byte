@@ -1,16 +1,26 @@
-## Hi there 👋
+## Opa! me chamo Pedro Gerhardt
 
-<!--
-**PedroGerhardt-byte/PedroGerhardt-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Estou estudando tecnologia da Informação na FAETERJ 
+- 🚀 Sempre em busca de conhecimento e crescimento
+- 🦍 "Apenas comece!"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+<a href="https://github.com/PedroGerhardt-byte">
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PedroGerhardt-byte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PedroGerhardt-byte&layout=compact&langs_count=8&theme=dark"/>
+  
+  <div style="display: inline_block">  
+
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+    <img align="center" alt="c" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+</div>
+
+##
+
+  <a href = "mailto:pgerhardtdeoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-oliveira-11331135b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/pedro_gerhardt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
